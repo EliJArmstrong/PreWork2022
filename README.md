@@ -1,6 +1,6 @@
 # Pre-work - *Tip Calculator*
 
-**NTip Calculator** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Eli Armstrong**
 
